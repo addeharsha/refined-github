@@ -1,5 +1,7 @@
 # <img src="source/icon.png" width="45" align="left"> Refined GitHub
 
+Forked from [here](https://github.com/sindresorhus/refined-github) to support Addepar specific workflows.
+
 [link-cws]: https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf "Version published on Chrome Web Store"
 [link-amo]: https://addons.mozilla.org/en-US/firefox/addon/refined-github-/ "Version published on Mozilla Add-ons"
 
